@@ -1,0 +1,15 @@
+Question: How did viewing a diff between two versions of a file help you to see the bug that was introduced?
+
+Answer: It is possible to see two same lines of two documents that makes easy to see the difference between them.
+
+Question: How could having access to the entire history of a file make you a more efficient programmer in the long term?
+
+Answer: Having access to the entire history of a file permits to see what changes have be done since the first versions of file, to compare new versions with old ones, to improve them, to make them more clear and efficient. So, it makes possible to study on your own errors and to improve yourself.
+
+Question: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Answer: The main advantage of manually choosing when to create a commit is a possibility to make logical changes and savings for the commit with comments what have been changed. Automatically saved versions are an advantage to be saved by a machine when the user sometimes forgets to save his version, but there is no logic in automatically savings and the user won't know about what changes he has done in previous versions.
+
+
+  
+
