@@ -1,0 +1,10 @@
+	Question : What happens when you initialize a repository? Why do you need to do it?
+
+Answer : When you initialize a repositiry, it creates a new git repository. You need to do it to make commits.
+
+Question: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Answer: The staging area is an intermediate area between the gir repository and the working directory. It permits to preview a commit and to make changes to it if you want before it will be a real commit.
+
+
+ 
